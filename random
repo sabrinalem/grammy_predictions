@@ -1,0 +1,939 @@
+{
+  "href": "https://api.spotify.com/v1/albums/0Lg1uZvI312TPqxNWShFXL/tracks?offset=0&limit=31&locale=en-US,en;q=0.9",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 228093,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1c8gk2PeTE04A1pIDH9YMk",
+      "id": "1c8gk2PeTE04A1pIDH9YMk",
+      "is_local": false,
+      "name": "Rolling in the Deep",
+      "preview_url": "https://p.scdn.co/mp3-preview/095bbf0bf760e979b72da7fdbce38c19f223dcc3?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1c8gk2PeTE04A1pIDH9YMk"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 223266,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2A73XBDBQgmdXO8VsXPWIs"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2A73XBDBQgmdXO8VsXPWIs",
+      "id": "2A73XBDBQgmdXO8VsXPWIs",
+      "is_local": false,
+      "name": "Rumour Has It",
+      "preview_url": "https://p.scdn.co/mp3-preview/52acea7d79225462d705e5122bc61a37f183e7b8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:2A73XBDBQgmdXO8VsXPWIs"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 250000,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4oy98QoABnGKpvapDkI525"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4oy98QoABnGKpvapDkI525",
+      "id": "4oy98QoABnGKpvapDkI525",
+      "is_local": false,
+      "name": "Turning Tables",
+      "preview_url": "https://p.scdn.co/mp3-preview/f2b39f3a258fe049a719c4b1243238b08925e716?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4oy98QoABnGKpvapDkI525"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 243200,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4RyjMERDcCJHTkFpXzgUw4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4RyjMERDcCJHTkFpXzgUw4",
+      "id": "4RyjMERDcCJHTkFpXzgUw4",
+      "is_local": false,
+      "name": "Don't You Remember",
+      "preview_url": "https://p.scdn.co/mp3-preview/b7da96516b55cd48640c01bb0882e0ea09815180?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:4RyjMERDcCJHTkFpXzgUw4"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 242973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/73CMRj62VK8nUS4ezD2wvi",
+      "id": "73CMRj62VK8nUS4ezD2wvi",
+      "is_local": false,
+      "name": "Set Fire to the Rain",
+      "preview_url": "https://p.scdn.co/mp3-preview/226f2449328de8532de5c3a71b44c5471699d7a9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:73CMRj62VK8nUS4ezD2wvi"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 278040,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3uVsdnIglL7aTjm8X08J0M"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3uVsdnIglL7aTjm8X08J0M",
+      "id": "3uVsdnIglL7aTjm8X08J0M",
+      "is_local": false,
+      "name": "He Won't Go",
+      "preview_url": "https://p.scdn.co/mp3-preview/f41c0b73c73d0431d5fa4282483fe9de89940f82?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3uVsdnIglL7aTjm8X08J0M"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 228293,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/08YJEcxGtYXwCGqXMZDiyQ",
+      "id": "08YJEcxGtYXwCGqXMZDiyQ",
+      "is_local": false,
+      "name": "Take It All",
+      "preview_url": "https://p.scdn.co/mp3-preview/41da8cb64c8a06afb28148826829a714dd9e2db8?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:08YJEcxGtYXwCGqXMZDiyQ"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 241351,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5AKAyMEL5LqCkafztPdBSI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5AKAyMEL5LqCkafztPdBSI",
+      "id": "5AKAyMEL5LqCkafztPdBSI",
+      "is_local": false,
+      "name": "I'll Be Waiting",
+      "preview_url": "https://p.scdn.co/mp3-preview/c47e6f41ec80aa672552c532cd5cb6125c56cf57?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:5AKAyMEL5LqCkafztPdBSI"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 348226,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/43dcCpx19I0R4zLr4KH1UC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/43dcCpx19I0R4zLr4KH1UC",
+      "id": "43dcCpx19I0R4zLr4KH1UC",
+      "is_local": false,
+      "name": "One And Only",
+      "preview_url": "https://p.scdn.co/mp3-preview/77cb0494bd2e8a76d09b2711af02164d99099dc4?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:43dcCpx19I0R4zLr4KH1UC"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 316240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7nm6DlSzzJTH1rk2e6EgJz",
+      "id": "7nm6DlSzzJTH1rk2e6EgJz",
+      "is_local": false,
+      "name": "Lovesong",
+      "preview_url": "https://p.scdn.co/mp3-preview/b4adc5c6c272e5e1ff8e1cd13278720af0ffd09c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:7nm6DlSzzJTH1rk2e6EgJz"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 285240,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1zwMYTA5nlNjZxYrvBB2pV",
+      "id": "1zwMYTA5nlNjZxYrvBB2pV",
+      "is_local": false,
+      "name": "Someone Like You",
+      "preview_url": "https://p.scdn.co/mp3-preview/d0deb923cc303b2b2d7aa2f50ffa5335969891f7?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1zwMYTA5nlNjZxYrvBB2pV"
+    }
+  ],
+  "limit": 31,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 11
+}
+
+
+
+
+
+
+
+{
+    "album_type": "album",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        },
+        "href": "https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6",
+        "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+        "name": "JoJo",
+        "type": "artist",
+        "uri": "spotify:artist:5xuNBZoM7z1Vv8IQ6uM0p6"
+      }
+    ],
+    "copyrights": [
+      {
+        "text": "© 2020 Warner Records Inc.",
+        "type": "C"
+      },
+      {
+        "text": "℗ 2020 Warner Records Inc.",
+        "type": "P"
+      }
+    ],
+    "external_ids": {
+      "upc": "093624892953"
+    },
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0W7KBrn4FQOvz5eWsGz8T8"
+    },
+    "genres": [],
+    "href": "https://api.spotify.com/v1/albums/0W7KBrn4FQOvz5eWsGz8T8",
+    "id": "0W7KBrn4FQOvz5eWsGz8T8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27327035c4153e7582763246b00",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://i.scdn.co/image/ab67616d00001e0227035c4153e7582763246b00",
+        "width": 300
+      },
+      {
+        "height": 64,
+        "url": "https://i.scdn.co/image/ab67616d0000485127035c4153e7582763246b00",
+        "width": 64
+      }
+    ],
+    "label": "Warner Records",
+    "name": "good to know",
+    "popularity": 58,
+    "release_date": "2020-05-01",
+    "release_date_precision": "day",
+    "total_tracks": 9,
+    "tracks": {
+      "href": "https://api.spotify.com/v1/albums/0W7KBrn4FQOvz5eWsGz8T8/tracks?offset=0&limit=50&market=ES&locale=en-US,en;q=0.9",
+      "items": [
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+              },
+              "href": "https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6",
+              "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+              "name": "JoJo",
+              "type": "artist",
+              "uri": "spotify:artist:5xuNBZoM7z1Vv8IQ6uM0p6"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 191853,
+          "explicit": true,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/12N29yPFBuYEAHYCf5z0yI"
+          },
+          "href": "https://api.spotify.com/v1/tracks/12N29yPFBuYEAHYCf5z0yI",
+          "id": "12N29yPFBuYEAHYCf5z0yI",
+          "is_local": false,
+          "is_playable": true,
+          "name": "So Bad",
+          "preview_url": "https://p.scdn.co/mp3-preview/6b28847cc3f6569128dc37ccedadd87a53e528e1?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 1,
+          "type": "track",
+          "uri": "spotify:track:12N29yPFBuYEAHYCf5z0yI"
+        },
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+              },
+              "href": "https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6",
+              "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+              "name": "JoJo",
+              "type": "artist",
+              "uri": "spotify:artist:5xuNBZoM7z1Vv8IQ6uM0p6"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 246480,
+          "explicit": false,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6wn9bvHpg8NmWy1ZesqNke"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6wn9bvHpg8NmWy1ZesqNke",
+          "id": "6wn9bvHpg8NmWy1ZesqNke",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Pedialyte",
+          "preview_url": "https://p.scdn.co/mp3-preview/2c604cf2781331922d1b443992101710451e7bfc?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 2,
+          "type": "track",
+          "uri": "spotify:track:6wn9bvHpg8NmWy1ZesqNke"
+        },
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+              },
+              "href": "https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6",
+              "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+              "name": "JoJo",
+              "type": "artist",
+              "uri": "spotify:artist:5xuNBZoM7z1Vv8IQ6uM0p6"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 146706,
+          "explicit": true,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6MKNkiOJ0Vv4NGZqFsOYdt"
+          },
+          "href": "https://api.spotify.com/v1/tracks/6MKNkiOJ0Vv4NGZqFsOYdt",
+          "id": "6MKNkiOJ0Vv4NGZqFsOYdt",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Gold",
+          "preview_url": "https://p.scdn.co/mp3-preview/80b0d9ff82d8b18173b599dd85ce4a3d9fd10ba8?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 3,
+          "type": "track",
+          "uri": "spotify:track:6MKNkiOJ0Vv4NGZqFsOYdt"
+        },
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+              },
+              "href": "https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6",
+              "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+              "name": "JoJo",
+              "type": "artist",
+              "uri": "spotify:artist:5xuNBZoM7z1Vv8IQ6uM0p6"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 173760,
+          "explicit": true,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/44Hj5b2cGEhKwLVw6tmuJ4"
+          },
+          "href": "https://api.spotify.com/v1/tracks/44Hj5b2cGEhKwLVw6tmuJ4",
+          "id": "44Hj5b2cGEhKwLVw6tmuJ4",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Man",
+          "preview_url": "https://p.scdn.co/mp3-preview/8c3959cfa4f4321f0be5d15cc4768324470b1240?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 4,
+          "type": "track",
+          "uri": "spotify:track:44Hj5b2cGEhKwLVw6tmuJ4"
+        },
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+              },
+              "href": "https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6",
+              "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+              "name": "JoJo",
+              "type": "artist",
+              "uri": "spotify:artist:5xuNBZoM7z1Vv8IQ6uM0p6"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 204226,
+          "explicit": false,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/77LNpNqpscqLm8oZ4YQzHJ"
+          },
+          "href": "https://api.spotify.com/v1/tracks/77LNpNqpscqLm8oZ4YQzHJ",
+          "id": "77LNpNqpscqLm8oZ4YQzHJ",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Small Things",
+          "preview_url": "https://p.scdn.co/mp3-preview/2ea693bfc2c8d0ab99224e96e34149d3ea393336?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 5,
+          "type": "track",
+          "uri": "spotify:track:77LNpNqpscqLm8oZ4YQzHJ"
+        },
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+              },
+              "href": "https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6",
+              "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+              "name": "JoJo",
+              "type": "artist",
+              "uri": "spotify:artist:5xuNBZoM7z1Vv8IQ6uM0p6"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 203813,
+          "explicit": true,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0uQBTf6XWp27hSegB3zV92"
+          },
+          "href": "https://api.spotify.com/v1/tracks/0uQBTf6XWp27hSegB3zV92",
+          "id": "0uQBTf6XWp27hSegB3zV92",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Lonely Hearts",
+          "preview_url": "https://p.scdn.co/mp3-preview/dc18ec81d339fa04fd6e728875be21840dccc820?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 6,
+          "type": "track",
+          "uri": "spotify:track:0uQBTf6XWp27hSegB3zV92"
+        },
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+              },
+              "href": "https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6",
+              "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+              "name": "JoJo",
+              "type": "artist",
+              "uri": "spotify:artist:5xuNBZoM7z1Vv8IQ6uM0p6"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 228693,
+          "explicit": true,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/22yvOsqxSG6ba2Q5JpuKUP"
+          },
+          "href": "https://api.spotify.com/v1/tracks/22yvOsqxSG6ba2Q5JpuKUP",
+          "id": "22yvOsqxSG6ba2Q5JpuKUP",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Think About You",
+          "preview_url": "https://p.scdn.co/mp3-preview/2c1888ea4c0c7d0af8537b17236dd00443d82654?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 7,
+          "type": "track",
+          "uri": "spotify:track:22yvOsqxSG6ba2Q5JpuKUP"
+        },
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+              },
+              "href": "https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6",
+              "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+              "name": "JoJo",
+              "type": "artist",
+              "uri": "spotify:artist:5xuNBZoM7z1Vv8IQ6uM0p6"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+              },
+              "href": "https://api.spotify.com/v1/artists/2jku7tDXc6XoB6MO2hFuqg",
+              "id": "2jku7tDXc6XoB6MO2hFuqg",
+              "name": "Tory Lanez",
+              "type": "artist",
+              "uri": "spotify:artist:2jku7tDXc6XoB6MO2hFuqg"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7GtYDLjnMOi2qZu8QBnpXC"
+              },
+              "href": "https://api.spotify.com/v1/artists/7GtYDLjnMOi2qZu8QBnpXC",
+              "id": "7GtYDLjnMOi2qZu8QBnpXC",
+              "name": "30 Roc",
+              "type": "artist",
+              "uri": "spotify:artist:7GtYDLjnMOi2qZu8QBnpXC"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 175251,
+          "explicit": true,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3wN7Spu4tWhefB3LooMLys"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3wN7Spu4tWhefB3LooMLys",
+          "id": "3wN7Spu4tWhefB3LooMLys",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Comeback (feat. Tory Lanez and 30 Roc)",
+          "preview_url": "https://p.scdn.co/mp3-preview/637c8990ad75cff4bbbc834798b9ac141b31b71e?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 8,
+          "type": "track",
+          "uri": "spotify:track:3wN7Spu4tWhefB3LooMLys"
+        },
+        {
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+              },
+              "href": "https://api.spotify.com/v1/artists/5xuNBZoM7z1Vv8IQ6uM0p6",
+              "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+              "name": "JoJo",
+              "type": "artist",
+              "uri": "spotify:artist:5xuNBZoM7z1Vv8IQ6uM0p6"
+            }
+          ],
+          "disc_number": 1,
+          "duration_ms": 207586,
+          "explicit": false,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3dkI9PTUM4bwSPTYr3gn3y"
+          },
+          "href": "https://api.spotify.com/v1/tracks/3dkI9PTUM4bwSPTYr3gn3y",
+          "id": "3dkI9PTUM4bwSPTYr3gn3y",
+          "is_local": false,
+          "is_playable": true,
+          "name": "Don't Talk Me Down",
+          "preview_url": "https://p.scdn.co/mp3-preview/918ceec3bbd14eb590974fc01e4da319740eff40?cid=774b29d4f13844c495f206cafdad9c86",
+          "track_number": 9,
+          "type": "track",
+          "uri": "spotify:track:3dkI9PTUM4bwSPTYr3gn3y"
+        }
+      ],
+      "limit": 50,
+      "next": null,
+      "offset": 0,
+      "previous": null,
+      "total": 9
+    },
+    "type": "album",
+    "uri": "spotify:album:0W7KBrn4FQOvz5eWsGz8T8"
+  }
